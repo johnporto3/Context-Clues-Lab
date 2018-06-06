@@ -1,0 +1,3 @@
+var friend = ["Andrew", "Brad", "Paul", "Sean", "Marybeth"];
+var location = ["kitchen", "study", "bathroom", "closet", "bedroom", "garden", "dining room", "foyer", "living room", "garage"];
+var i = ["spoon", "Sponge", "pillow", "crowbar", "funnel", "nagging", "enchanted sword", "book", "gun", "lightsaber", "pen", "knife", "rolling pin", "rabid hamster", "candle stick", "death stare", "shovel", "umbrella", "roll of toilet paper", "coat hanger" ]
